@@ -8,6 +8,8 @@
 - 📫 How to reach me **shanecarr1000@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shane-carr-bb7b4a1bb/](https://www.linkedin.com/in/shane-carr-bb7b4a1bb/)
+  
+- 🛠 See my technical badges earned in my cloud course [Credly](https://www.credly.com/users/shane-carr.854a39a7)
 
 - ⚡ Fun fact **I generally end up being a lead or second in charge because of my ability to view the application as a whole, which allows me to make competitive decisions when it comes to design and methodologies.**
 
