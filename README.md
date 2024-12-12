@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shanecarr1000@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shane-carr-bb7b4a1bb/](https://www.linkedin.com/in/shane-carr-bb7b4a1bb/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/shane-carr-bb7b4a1bb/)
   
 - 🛠 See my technical badges earned in my cloud course [Credly](https://www.credly.com/users/shane-carr.854a39a7)
 
