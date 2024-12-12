@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shane</h1>
-<h3 align="center">I am a developer that enjoys taking on difficult to solve problems as my logical mindset finds them intriguing. I enjoy the backend and infrastructure side of code more than the front end. I am comfortable with API's and have a general know-how when it comes to software development. I would like to believe that my fundamentals will allow me to learn new skills in the field with general ease. Whether it is working on optimization or new infrastructure I am the man to go to.</h3>
+<h2 align="center">I am a developer that enjoys taking on difficult to solve problems as my logical mindset finds them intriguing. I enjoy the backend and infrastructure side of code more than the front end. I am comfortable with API's and have a general know-how when it comes to software development. I would like to believe that my fundamentals will allow me to learn new skills in the field with general ease. Whether it is working on optimization or new infrastructure I am the man to go to.</h3>
 
 - 🌱 I’m currently learning **AWS SAM**
 
